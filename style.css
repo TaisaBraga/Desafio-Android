@@ -1,0 +1,141 @@
+* {
+  margin: 0;
+}
+
+header {
+  height: 13rem;
+  padding: 0.625rem;
+  background: linear-gradient(
+    180deg,
+    rgba(79, 197, 134, 1) 0%,
+    rgba(78, 161, 118, 1) 41%,
+    rgba(54, 105, 77, 1) 84%
+  );
+  color: white;
+}
+
+.titulo-principal {
+  font-family: 'Azeret Mono', monospace;
+  font-size: 2.5rem;
+  text-align: center;
+  margin: 1rem;
+}
+
+.titulo-header {
+  font-family: 'Azeret Mono', monospace;
+  text-align: center;
+  margin: 2rem;
+}
+
+.menu li {
+  display: inline-block;
+  padding-right: 2rem;
+  margin-top: 3rem;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+section {
+  background-color: #84e1ad;
+}
+
+.conteudo {
+  width: 70rem;
+  margin: auto;
+  background-color: white;
+  padding: 0.5rem;
+}
+
+h2 {
+  font-family: 'Ruslan Display', cursive;
+  font-size: 2.5rem;
+  padding: 1.5rem;
+  color: #2ea663;
+}
+
+.texto-corpo {
+  text-indent: 2.5rem;
+  text-align: justify;
+  margin-right: 2.75rem;
+  margin-left: 2.75rem;
+}
+
+h3 {
+  font-family: 'Ruslan Display', cursive;
+  font-size: 1.75rem;
+  padding: 0.5rem;
+  margin: 2rem;
+  background: linear-gradient(
+    295deg,
+    rgba(251, 251, 251, 0.5329482134650736) 13%,
+    rgba(169, 231, 197, 0.7794468129048494) 74%
+  );
+  color: #2ea663;
+}
+
+.imagem-um {
+  margin-left: 10rem;
+}
+
+span {
+  color: #228b22;
+  font-weight: bolder;
+}
+
+.imagem-dois {
+  width: 90%;
+  display: block;
+  margin: 2rem auto;
+}
+
+.imagem-tres {
+  margin-left: 23.5rem;
+}
+
+.video {
+  width: 70rem;
+  height: 30.25rem;
+  margin: 0 auto;
+  background-color: #228b22;
+  padding: 0.5rem;
+}
+
+iframe {
+  width: 90%;
+  height: 90%;
+  margin: 1.5rem 3.5rem;
+  box-shadow: 8px 5px 5px rgba(0, 0, 0, 0.37);
+}
+
+.conteudo-plus {
+  width: 90%;
+  margin: auto;
+  background-color: #e1efe7;
+  border-radius: 0 0 0.5rem 0.5rem;
+  padding: 1.5rem;
+  box-shadow: 6px 3px 3px rgba(49, 49, 49, 0.253);
+}
+
+.h1-plus {
+  background: #2ea663;
+  color: white;
+  border-radius: 0.5rem 0.5rem 0 0;
+  padding: 0.75rem;
+  font-size: 1.5rem;
+}
+
+.lista {
+  display: inline-block;
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.lista li {
+  list-style: '\2713';
+}
+
+footer {
+  background-color: #1f6d41;
+  padding: 0.5rem;
+  color: #84e1ad;
+  text-align: center;
+}
