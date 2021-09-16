@@ -2,15 +2,10 @@
 
 
 
-![image-20210913134458429](C:\Users\taisa\AppData\Roaming\Typora\typora-user-images\image-20210913134458429.png![image-20210916131548909](C:\Users\taisa\AppData\Roaming\Typora\typora-user-images\image-20210916131548909.png)
-
-
+![pagina-inicial](C:\Users\taisa\OneDrive\Desktop\pagina-inicial.jpg)
 
 <h2>Página Responsiva</h2>
 
 
 
-![image-20210916131736289](C:\Users\taisa\AppData\Roaming\Typora\typora-user-images\image-20210916131736289.png)
-
-
-
+![pagina-responsiva](C:\Users\taisa\OneDrive\Desktop\pagina-responsiva.jpg)
